@@ -22,6 +22,17 @@ Make sure you have the following installed before getting started:
 - [Node.js](https://nodejs.org/) >= 22.3.x
 - [npm](https://www.npmjs.com/)
 
+## Template Usage
+
+This template provides a basic structure for building React applications with
+Mantine. You can start by modifying the existing components or creating new
+ones to build your application.
+
+1. Click on the `Use this template` button on the top right of the github
+repository.
+2. Click on the `Create a new repository` button.
+3. Clone the new repository to your local machine.
+
 ## Installation
 
 1. Clone the repository:
