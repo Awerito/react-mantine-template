@@ -35,19 +35,7 @@ repository.
 
 ## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/js-react-mantine-template.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd js-react-mantine-template
-   ```
-
-3. Install the dependencies:
+1. Install the dependencies:
 
    Using npm:
 
