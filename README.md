@@ -8,11 +8,11 @@ customizable foundation for building modern web applications with ease.
 
 - **React**: A popular JavaScript library for building user interfaces.
 - **Mantine**: A fully featured component library with all the tools you need
-to build a modern, user-friendly UI quickly.
+  to build a modern, user-friendly UI quickly.
 - **JavaScript (ES6+)**: Modern JavaScript setup to keep your code efficient
-and clean.
+  and clean.
 - **Pre-configured tools**: Includes basic configurations for ESLint, Prettier,
-and other development scripts.
+  and other development scripts.
 - **Dark Mode Support**: Integrated dark mode using Mantine's theming system.
 
 ## Requirements
@@ -29,7 +29,7 @@ Mantine. You can start by modifying the existing components or creating new
 ones to build your application.
 
 1. Click on the `Use this template` button on the top right of the github
-repository.
+   repository.
 2. Click on the `Create a new repository` button.
 3. Clone the new repository to your local machine.
 
