@@ -1,5 +1,7 @@
 # JS + React + Mantine Template
 
+[![GitHub License](https://img.shields.io/github/license/Awerito/react-mantine-template)](./LICENSE)
+
 This is a template for projects using [React](https://reactjs.org/) and
 [Mantine](https://mantine.dev/) with JavaScript. It provides a solid,
 customizable foundation for building modern web applications with ease.
@@ -92,8 +94,3 @@ Runs the production build locally to preview the app. Open
 Feel free to modify the structure, components, and styling according to your
 needs. Mantine's documentation is an excellent resource for customizing the UI
 components to fit your project.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE)
-file for more details.
