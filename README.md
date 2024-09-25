@@ -1,5 +1,7 @@
-# JS + React + Mantine Template
+# React + Mantine Template
 
+![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/awerito/react-mantine-template/%40mantine%2Fcore)
+![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/awerito/react-mantine-template/react)
 [![GitHub License](https://img.shields.io/github/license/Awerito/react-mantine-template)](./LICENSE)
 
 This is a template for projects using [React](https://reactjs.org/) and
@@ -22,7 +24,7 @@ customizable foundation for building modern web applications with ease.
 Make sure you have the following installed before getting started:
 
 - [Node.js](https://nodejs.org/) >= 22.3.x
-- [npm](https://www.npmjs.com/)
+- [npm](https://www.npmjs.com/) >= 10.8.x
 
 ## Template Usage
 
