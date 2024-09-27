@@ -80,6 +80,7 @@ Runs the production build locally to preview the app. Open
 ├── src/
 │   ├── assets/           # Static assets like images and fonts
 │   ├── components/       # Reusable React components
+│   ├── services/         # API services
 │   ├── hooks/            # Custom React hooks
 │   ├── pages/            # Application pages
 │   ├── App.jsx           # Root component
