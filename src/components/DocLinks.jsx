@@ -47,6 +47,10 @@ const Links = () => {
         style={{ marginBottom: 20 }}
       >
         <img
+          alt="GitHub package.json dev/peer/optional dependency version"
+          src="https://img.shields.io/github/package-json/dependency-version/awerito/react-mantine-template/dev/vite?logo=vite"
+        />
+        <img
           alt="GitHub package.json prod dependency version"
           src="https://img.shields.io/github/package-json/dependency-version/awerito/react-mantine-template/%40mantine%2Fcore?logo=mantine"
         />
