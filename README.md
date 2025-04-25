@@ -25,7 +25,7 @@ customizable foundation for building modern web applications with ease.
 Make sure you have the following installed before getting started:
 
 - [Node.js](https://nodejs.org/) >= 22.3.x
-- [npm](https://www.npmjs.com/) >= 10.8.x
+- [Yarn](https://yarnpkg.com/) >= 1.22.x
 
 ## Template Usage
 
@@ -45,29 +45,29 @@ ones to build your application.
    Using npm:
 
    ```bash
-   npm install
+   yarn
    ```
 
 ## Available Scripts
 
 In the project directory, you can run the following commands:
 
-### `npm run dev`
+### `yarn dev`
 
 Runs the app in development mode. Open
 [http://localhost:5173](http://localhost:5173) to view it in the browser. The
 app will reload if you make edits.
 
-### `npm run build`
+### `yarn build`
 
 Builds the app for production into the `build` folder. It optimizes the build
 for the best performance.
 
-### `npm run lint`
+### `yarn lint`
 
 Runs ESLint to check for code style and syntax issues.
 
-### `npm run preview`
+### `yarn preview`
 
 Runs the production build locally to preview the app. Open
 [http://localhost:4173](http://localhost:4173) to view it in the browser.
